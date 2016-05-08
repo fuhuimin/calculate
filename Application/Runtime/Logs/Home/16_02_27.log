@@ -1,0 +1,2175 @@
+[ 2016-02-27T09:02:45+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.020508s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000536s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016273s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-02-27T09:41:35+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002831s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000291s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-02-27T09:42:03+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003140s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000335s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-02-27T09:42:15+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003038s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000348s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-02-27T09:43:40+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002698s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000373s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2016-02-27T09:43:51+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002696s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2016-02-27T09:44:22+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003215s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000456s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017209s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2016-02-27T09:45:23+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002679s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000319s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-02-27T09:46:20+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002838s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000343s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2016-02-27T09:46:21+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002700s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000285s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-02-27T09:51:28+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001776s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002693s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000462s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2016-02-27T09:53:16+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002832s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000436s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2016-02-27T09:54:12+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002685s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000482s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001113s ]
+
+[ 2016-02-27T09:55:06+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002806s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000302s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2016-02-27T09:56:43+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002760s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000303s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000386s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2016-02-27T09:58:06+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003015s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002887s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000492s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+
+[ 2016-02-27T09:59:14+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003023s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2016-02-27T10:00:13+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003256s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000349s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-02-27T10:01:02+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003806s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000351s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016477s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-02-27T10:02:10+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002786s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000347s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2016-02-27T10:03:40+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003412s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000306s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001092s ]
+
+[ 2016-02-27T10:05:43+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003463s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000369s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-02-27T10:06:34+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002813s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000354s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016809s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2016-02-27T10:07:54+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003050s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000556s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2016-02-27T10:18:11+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003062s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000376s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-02-27T10:18:31+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003148s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000464s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015805s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000914s ]
+
+[ 2016-02-27T10:22:26+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002860s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000305s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-02-27T10:22:39+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003758s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000447s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000346s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001336s ]
+
+[ 2016-02-27T10:22:59+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003036s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000264s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001222s ]
+
+[ 2016-02-27T10:23:22+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002705s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-02-27T10:23:49+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003223s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2016-02-27T10:25:09+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002815s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000355s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-02-27T10:27:06+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003306s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000464s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2016-02-27T10:27:52+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003153s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016422s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-02-27T10:27:53+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002852s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000275s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-02-27T10:28:15+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002975s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000287s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-02-27T10:29:23+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002882s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000292s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000232s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-02-27T10:29:52+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002951s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000315s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2016-02-27T10:41:23+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003974s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000295s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016684s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2016-02-27T10:43:04+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003038s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-02-27T10:43:54+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002932s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000302s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-02-27T10:45:36+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003253s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000431s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001102s ]
+
+[ 2016-02-27T10:46:15+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003152s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000369s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2016-02-27T10:46:58+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003026s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000249s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015761s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2016-02-27T10:50:29+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003403s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000530s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016596s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2016-02-27T10:57:12+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002900s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000446s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2016-02-27T10:59:47+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003003s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000375s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000983s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001122s ]
+
+[ 2016-02-27T11:00:20+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.004093s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000466s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000232s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-02-27T11:00:45+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003008s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000290s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2016-02-27T11:01:14+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003980s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000439s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-02-27T11:04:01+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003219s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000296s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-02-27T11:04:54+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003110s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000334s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2016-02-27T11:05:20+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002957s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000348s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2016-02-27T11:09:12+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003491s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.005621s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000341s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-02-27T11:10:17+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003089s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000334s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2016-02-27T11:10:36+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002972s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000450s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-02-27T11:11:01+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003031s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000362s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2016-02-27T11:16:28+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003719s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000401s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-02-27T11:34:00+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003256s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000358s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-02-27T11:39:55+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003048s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2016-02-27T12:02:38+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003325s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000289s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2016-02-27T12:07:32+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003017s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000326s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-02-27T12:09:12+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002921s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000292s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2016-02-27T12:09:23+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003246s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000358s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-02-27T12:09:23+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002953s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-02-27T12:12:17+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.004138s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000423s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000899s ]
+
+[ 2016-02-27T12:15:49+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003011s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000792s ]
+
+[ 2016-02-27T12:16:55+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003146s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000300s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016731s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-02-27T12:18:17+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002951s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000345s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2016-02-27T12:19:08+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002983s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000327s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-02-27T12:19:26+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002909s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000308s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017069s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2016-02-27T12:26:49+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003088s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017205s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2016-02-27T12:28:29+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003732s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-02-27T12:29:00+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003567s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000359s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000901s ]
+
+[ 2016-02-27T12:30:02+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003097s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000361s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-02-27T12:31:29+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003110s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000301s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016796s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2016-02-27T12:32:34+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002915s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000279s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-02-27T12:33:10+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003476s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000357s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2016-02-27T12:37:16+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.002939s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000303s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2016-02-27T12:37:47+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003471s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000581s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2016-02-27T12:38:24+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003026s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000479s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016477s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2016-02-27T12:39:34+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003456s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000367s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017133s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-02-27T12:40:33+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003022s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000294s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2016-02-27T12:41:39+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.004658s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000733s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-02-27T12:43:21+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.004033s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000317s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-02-27T12:45:36+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.003847s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000649s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-02-27T12:46:28+08:00 ] ::1 /calculator/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+SQL: SHOW COLUMNS FROM `imformation` [ RunTime:0.007056s ]
+SQL: SELECT * FROM `imformation`  [ RunTime:0.000351s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+NOTIC: [8] Undefined offset: 1 E:\wamp\www\calculator\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php 第 494 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002033s ]
+

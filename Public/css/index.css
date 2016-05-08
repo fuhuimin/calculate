@@ -1,0 +1,146 @@
+ * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    body {
+        background-color: rgb(245, 245, 245);
+        font-family: "Microsoft Yahei";
+        font-size: 1.05em;
+    }
+    
+    .content select {
+        border: 1px solid gray;
+        border-radius: 3px;
+        width: 150px;
+        background-color: #fff;
+        float: right;
+        margin-right: 10px;
+    }
+    
+    .content input {
+        border: 1px solid gray;
+        border-radius: 3px;
+        font-size: 1.05em;
+        width: 100%;
+        /*margin-right: 10px;*/
+       /* margin-top: 10px;*/
+        -webkit-appearance:none; /*去除input默认样式*/
+    }
+    
+    ul li {
+        display: inline-block;
+        list-style: none;
+        float: left;
+        padding: 3px;
+        color: rgb(26, 128, 255);
+    }
+    
+    .li {
+        float: left;
+        padding: 3px;
+        color: rgb(26, 128, 255);
+    }
+
+    .method ul{
+        float: right;
+        border-radius: 5px;
+        border: 1px solid rgb(152, 198, 255);
+        margin-top: 10px;
+    }
+
+    .title {
+        border: 1px solid rgb(216, 216, 216);
+        width: 60%;
+        background-color: #fff;
+        font-size: 1.3em;
+        padding: 3px 20px;
+        border-radius: 5px;
+        margin: 10px auto;
+        text-align: center;
+    }
+    
+    .ps {
+        font-size: 0.85em;
+        color: rgb(81, 81, 81);
+        width: 98%;
+        padding: 5px 0;
+    }
+    
+    .content {
+        margin: 10px auto;
+    }
+    
+    .content p {
+        display: inline-block;
+        margin: 10px;
+    }
+    
+    .basic,
+    .load,
+    .method {
+        background-color: #fff;
+        margin: 15px auto;
+        width: 100%;
+    }
+    
+    .click {
+        background-color: rgb(0, 108, 255);
+        color: #fff;
+    }
+    
+    .method {
+        height: 50px;
+    }
+    
+    .middle span {
+        margin-top: 15px;
+        display: inline-block;
+    }
+    
+    .scroll {
+        background-color: red;
+        height: 100px;
+        width: 100%;
+        overflow: scroll;
+    }
+    
+    #cal,
+    #calculate{
+        margin: 10px 0;
+        height: 25px;
+        color: #fff;
+        background-color:rgb(0,108,255); 
+        border: 1px solid #fff;
+        border-radius: 3px;
+    }
+    
+    .information {
+        width: 98%;
+        margin-bottom: 100px;
+        margin: 0 auto 100px auto;
+    }
+    
+    .left {
+        float: left;
+    }
+    
+    .right {
+        float: right;
+    }
+    .footer {
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        background-color: white;
+        height: 50px;
+    }
+    .footer ul li{
+        border: none;
+        width: 31%;
+        line-height: 50px;
+        text-align: center;
+    }
+    .fclick {
+        color: blue;
+    }

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <meta charset="utf8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <style type="text/css">
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+    body {
+        background-color: rgb(245, 245, 245);
+        font-family: "Microsoft Yahei";
+        font-size: 1.05em;
+    }
+    
+    select {
+        border: 1px solid gray;
+        border-radius: 3px;
+        width: 150px;
+    }
+    
+    input {
+        border: 1px solid gray;
+        border-radius: 3px;
+        font-size: 1.05em;
+        width: 150px;
+    }
+    
+    ul li {
+        display: inline-block;
+        list-style: none;
+        float: left;
+        padding: 3px;
+        color: rgb(26, 128, 255);
+    }
+    
+    ul {
+        display: inline-block;
+        float: right;
+        border-radius: 5px;
+        border: 1px solid rgb(152, 198, 255);
+        margin-top: 10px;
+    }
+    
+    .title {
+        border: 1px solid rgb(216, 216, 216);
+        width: 60%;
+        background-color: #fff;
+        font-size: 1.3em;
+        padding: 3px 20px;
+        border-radius: 5px;
+        margin: 10px auto;
+        text-align: center;
+    }
+    
+    .ps {
+        font-size: 0.85em;
+        color: rgb(81, 81, 81);
+        width: 98%;
+        padding: 5px 0;
+    }
+    
+    .content {
+        margin: 10px auto;
+    }
+    
+    .content p {
+        display: inline-block;
+        margin: 10px;
+    }
+    
+    .content input {
+        float: right;
+        margin-right: 10px;
+        margin-top: 10px;
+        height: 20px;
+    }
+    
+    .content select {
+        float: right;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    
+    .basic,
+    .load,
+    .method {
+        background-color: #fff;
+        margin: 15px auto;
+        width: 100%;
+    }
+    
+    .click {
+        background-color: rgb(0, 108, 255);
+        color: white;
+    }
+    
+    .method {
+        height: 50px;
+    }
+    
+    .middle span {
+        margin-top: 15px;
+        display: inline-block;
+    }
+    
+    .scroll {
+        background-color: red;
+        height: 100px;
+        width: 100%;
+        overflow: scroll;
+    }
+    
+    .button {
+        width: 100px;
+        height: 50px;
+    }
+    
+    .information {
+        width: 100%;
+    }
+    
+    .left {
+        float: left;
+    }
+    
+    .right {
+        float: right;
+    }
+    </style>
+    <script type="text/javascript" src="jquery.js"></script>
+</head>
+
+<body>
+    <p class="title">恒大地产</p>
+    <div class="method">
+        <span style="margin-top:15px;display:inline-block">还款方式</span>
+        <ul>
+            <li style="border-right:1px solid rgb(152,198,255)">等额本息</li>
+            <li class="click">等额本金</li>
+        </ul>
+    </div>
+    <div class="content">
+        <div class="basic">
+            <!-- <div>
+                <p>房号</p>
+                <input type="input">
+            </div>
+            <div>
+                <p>面积</p>
+                <input  class="area" value=""  >
+            </div>
+            <div>
+                <p>原单价</p>
+                <input type="input" class="price" value="8.5">
+            </div>
+            <div>
+                <p>原总价</p>
+                <input type="input" class="total" value="" style="border:none">
+            </div>
+            <div>
+                <p>折扣</p>
+                <select>
+                    <option>95折</option>
+                    <option>9折</option>
+                </select>
+            </div>
+            <div>
+                <p>折扣单价</p>
+                <input type="input" style="border:none">
+            </div>
+            <div>
+                <p>折扣总价</p>
+                <input type="input" style="border:none">
+            </div> -->
+            <table cellspacing="5px">
+                <tr>
+                    <td width="80%">房号</td>
+                    <td width="20%">
+                        <input type="input">
+                    </td>
+                </tr>
+                <tr>
+                    <td>面积（㎡）</td>
+                    <td>
+                        <input type="input" class="area" pattern="[0-9]*">
+                    </td>
+                </tr>
+                <tr>
+                    <td>原单价（元）</td>
+                    <td>
+                        <input type="input" class="price" pattern="[0-9]*">
+                    </td>
+                </tr>
+                <tr>
+                    <td>原总价（元）</td>
+                    <td>
+                        <input type="input" style="border:none" class="total" value="" pattern="[0-9]*">
+                    </td>
+                </tr>
+                <tr>
+                    <td>折扣</td>
+                    <td>
+                        <select class="dis">
+                            <option value="0.95">95折</option>
+                            <option value="0.97">97折</option>
+                            <option value="0.98">98折</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>折扣单价（元）</td>
+                    <td>
+                        <input type="input" style="border:none" class="discount">
+                    </td>
+                </tr>
+                <tr>
+                    <td>折扣总价（元）</td>
+                    <td>
+                        <input type="input" style="border:none" class="totaldis">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" value="计算" class="calculate" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="load">
+            <!-- <div>
+                <p>首付</p>
+                <select>
+                    <option>30%：<span class="">ssdss</span></option>
+                    <option>60%：<span>ssssdss</span></option>
+                </select>
+            </div>
+            <div>
+                <p>贷款年限</p>
+                <input type="input">
+            </div>
+            <div>
+                <p>累计支付利息（元）</p>
+                <input type="input" style="border:none" />
+            </div>
+            <div>
+                <p>累计还款总额（元）</p>
+                <input type="input" style="border:none" />
+            </div>
+            <div>
+                <p>每期本金</p>
+                <input type="input" style="border:none" />
+            </div>
+            <div>
+                <p>还款/利息</p>
+                <input type="input">
+            </div> -->
+            <table cellspacing="5px">
+                <tr>
+                    <td>首付</td>
+                    <td>
+                        <select class="firstpay">
+                            <option value="0.3">30%</option>
+                            <option value="0.4">40%</option>
+                            <option value="0.5">50%</option>
+                            <option value="0.6">60%</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>贷款年限</td>
+                    <td>
+                        <input type="input" class="year" pattern="[0-9]*" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>利率（%）</td>
+                    <td>
+                        <input type="search" value="0.0312" class="rate" pattern="[0-9]*" />
+                    </td>
+                </tr>
+                <tr>
+                    <td width="80%">累计支付利息（元）</td>
+                    <td>
+                        <input type="input" style="border:none" class="totalin">
+                    </td>
+                </tr>
+                <tr>
+                    <td>累计还款总额（元）</td>
+                    <td width="100px">
+                        <input type="input" style="border:none" class="totalca">
+                    </td>
+                </tr>
+                <tr>
+                    <td>每期本金</td>
+                    <td>
+                        <input type="input" style="border:none" class="capital">
+                    </td>
+                </tr>
+                <tr>
+                    <td>还款/利息</td>
+                    <td>
+                        <input type="input" style="border:none" class="interest">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" value="计算" class="cal" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="title ps">注明：物业费：2.8元/㎡ 2016年7月底交房</div>
+        <div class="information">
+            <p class="left">置业顾问：<span class="name">谢谢谢</span></p>
+            <p class="right">联系电话：<span class="tel">25588888</span></p>
+        </div>
+    </div>
+    <script type="text/javascript">
+    var area = $(".area"),//面积
+        price = $(".price"),//单价
+        total = $(".total"),//总价
+        year = $(".year"),//年限
+        rate = $(".rate"),
+        totalin,//利息
+        totalca,//总额
+        capital = $(".capital"),//本金
+        interest = $(".interest"),//还款/利息
+        dis,//折扣
+        discount,//折扣单价
+        totaldis,//折扣总价
+        first,//首付（%）
+        firstpay,//首付 （元）
+        benjin,//本金
+        capital,//每期本金
+        lixix,//每期还款/利息
+        back,//每期还款
+        lixiy;//每期本金/利息
+    $(".method li").click(function() {
+        $(this).addClass("click").siblings().removeClass("click");
+    });
+    /*var total=parseFloat(area * price);*/
+    $(".calculate").click(function() {
+        dis = $(".dis option:selected");
+        total = (area.val() * price.val()).toFixed(2);
+        $(".total").attr("value", total);
+        discount = (price.val() * dis.val()).toFixed(2); //折扣单价
+        $(".discount").attr("value", discount);
+        totaldis = (area.val() * price.val() * dis.val()).toFixed(2); //折扣总价
+        $(".totaldis").attr("value", totaldis);
+
+    });
+    $(".cal").click(function() {
+        first = $(".firstpay option:selected");
+        firstpay = $(".totaldis").val() * first.val(); //首付
+        benjin = totaldis * (1-first.val());//本金
+        totalin = year.val() * benjin * rate.val();//累计利息 
+        $(".totalin").attr("value",totalin.toFixed(2));
+        totalca = totalin + benjin;//总额
+        $(".totalca").attr("value",totalca.toFixed(2));
+        capital = benjin / 12;
+        $(".capital").attr("value",capital.toFixed(2));
+
+    });
+    </script>
+</body>
+
+
+</html>

@@ -1,0 +1,44 @@
+body{
+    /*background: url(../image/u1.jpg) no-repeat;
+    background-size: 100%;*/
+    background-color: #000;
+}
+.wrapper{
+    font-family: "Microsoft Yahei";
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 15%;
+    height: 400px;
+    color: #000;
+    position: relative;
+}
+.wrapper input{
+    height: 30px;
+    font-size: 16px;
+    width: 260px;
+    border-radius: 5px;
+    border: 1px solid rgb(80,190,217);
+}
+.container{
+    margin:0 auto;
+    margin-top: 280px;
+    margin-left: 60px;
+}
+#button{
+    border: 1px solid rgb(179,179,179);
+    bottom: 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    color: #000;
+    width: 130px;
+    background-color: #fff;
+    height: 40px;
+   
+}
+.a{
+    font-size: 26px;
+    color: white;
+    text-shadow:1px 1px rgb(95,111,144);
+}
+
